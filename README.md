@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Apostrophe Boilerplate v2.x
 
 Apostrophe Boilerplate is a minimal starting point for [Apostrophe 2](https://github.com/punkave/apostrophe) projects.
@@ -15,3 +16,7 @@ Now you're all set! Just run `node app.js` to start up the local server and head
 ---------------
 
 For more documentation on Apostrophe, visit the [A2 documentation site](http://apostrophecms.com).
+=======
+# thegioibcapos
+Thế Giới Blockchain
+>>>>>>> 7ce852caf8724acd8fbebcd329f6df124f5edb42
